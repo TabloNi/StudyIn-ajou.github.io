@@ -8,8 +8,8 @@
 # General App Info
 #
 app:
-  name: EleverD # REQUIRED - Enter your app name
-  android_id: com.ajou.eleverd # Optional - Enter Android app id like: com.example.app
+  name: StudyIn # REQUIRED - Enter your app name
+  android_id: com.ajou.StudyIn # Optional - Enter Android app id like: com.example.app
 
   icon: images/hi.png
   
@@ -45,8 +45,8 @@ app:
 #
 # Marketing
 #
-marketing_header: 건강관리의 해답, 일상에서 찾다 # Optional
-marketing_desc: 안녕하세요. 저희는 아주대학교 파란학기팀 EleverD입니다. 저희는 복약순응도 증진을 목표로, 복약알림 어플과 어플과 연동된 스마트 약통을 개발 하는 등 다양한 활동을 진행해 왔습니다. 곧 저희 앱을 안드로이드 에서 만나보실 수 있습니다. 감사합니다!
+marketing_header: Study with me everywhere, anytime # Optional
+marketing_desc: 저희는 온라인 공부 학습환경을 개선해주는 Study-in입니다. 저희의 서비스를 이용하여 학습 일정을 계획적으로 설계해보고, 다양한 사람과 함께 공부할 수 있는 기회를 만들어보세요! 또한 커뮤니티 기능을 활용하여 스터디 메이트 구인이나 어려운 문제 질문도 시도해보세요! 구글플레이나 앱스토어에서 곧 다운로드 가능합니다.
 
 #
 # Social Links
@@ -55,12 +55,12 @@ marketing_desc: 안녕하세요. 저희는 아주대학교 파란학기팀 Eleve
 #
 
 social-links:
-  github: /EleverD
-  facebook: /EleverD-%EC%97%98%EB%A6%AC%EB%B2%84%EB%94%94-103132948000641
+  github: /StudyIn-ajou
+  facebook: /StudyIn
   twitter:
   pinterest:
-  instagram: /eleverd_official/
-  email: eleverd@gmail.com
+  instagram: /StudyIn/
+  email: ajou.study.in@gmail.com
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -97,8 +97,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: 엘리버디 # Optional - Enter your site title
-description: This site is eleverd offcial website. # Optional - Enter your site description
+title: StudyIn # Optional - Enter your site title
+description: This site is StudyIn offcial website. # Optional - Enter your site description
 
 #
 # Google Analytics
@@ -110,7 +110,7 @@ google_analytics: # Enter your tracking code (e.g. UA-2110908-2) to activate tra
 #
 
 # The release of Awesome App Landing Page that you're using
-version: v1.2
+version: v1.1.2
 
 # Set the Sass partials directory, as we're using @imports
 sass:
