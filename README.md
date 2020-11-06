@@ -1,2 +1,3 @@
 # StudyIn-ajou.github.io
-github page
+
+This landing page is a project page for the introductory software of Ajou University.
